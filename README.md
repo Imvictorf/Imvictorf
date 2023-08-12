@@ -2,7 +2,7 @@
 <h2 align="center">Desenvolvedor front-end.👨‍💻</h2>
           
 
-🎯 Meu aprendizado atual está focado em Javascript, onde estou buscando me aprimorar cada vez mais (logo logo virão projetos no perfil).
+🎯 Meu aprendizado atual está focado em Javascript e React, onde estou buscando me aprimorar cada vez mais (logo logo virão projetos no perfil).
 ##
 
 
