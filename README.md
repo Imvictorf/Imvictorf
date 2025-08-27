@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Victor Fidelis. Sejam bem vindos ao meu mundo!🪐</h1>
-<h2 align="center">Desenvolvedor front-end.👨‍💻</h2>
+<h2 align="center">Desenvolvedor Front-end em formação.👨‍💻</h2>
           
 
 🎯 Meu aprendizado atual está focado em Javascript e React, onde estou buscando me aprimorar cada vez mais (logo logo virão projetos no perfil).
