@@ -68,7 +68,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="[https://github-readme-stats.vercel.app/api?username=Imvictorf&show_icons=true&theme=tokyonight&token=SEU_TOKEN](https://github-readme-stats.vercel.app/api?username=Imvictorf&show_icons=true&theme=tokyonight_token=SEU_TOKEN)" 
+    src="https://github-readme-stats.vercel.app/api?username=Imvictorf&show_icons=true&theme=tokyonight&token=SEU_TOKEN"
   />
 
 <img 
