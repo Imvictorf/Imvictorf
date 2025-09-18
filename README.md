@@ -1,32 +1,84 @@
 <h1 align="center">👋 Olá, eu sou Victor Fidelis. Sejam bem vindos ao meu mundo!🪐</h1>
 <h2 align="center">Desenvolvedor Front-end em formação.👨‍💻</h2>
           
+# 🧑🏻‍💻 Victor Fidelis
 
-🎯 Meu aprendizado atual está focado em Javascript e React, onde estou buscando me aprimorar cada vez mais (logo logo virão projetos no perfil).
-##
+**`Desenvolvedor Frontend e estudante de ADS`**
 
+ Sou Victor Fidelis, tenho 24 anos e sou apaixonado por tecnologia e pela cultura geek. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
-**Skills:** <img src="https://media4.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611cff7dd7e390c4e63050dc6aecfcf494b7b7adda8&rid=giphy.gif&ct=s" height="50px"> 
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🤖 Linguagens e Tecnologias
 
-#
-**Contatos:**
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  
+/>
 
-<div>
-<a href="https://instagram.com/imvictorf.dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/imvictorf/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<br/>
+<br/>
 
-##
+### 📊 Estatísticas
 
-<div align="center">
-<a href="https://github.com/Imvictor.dev">
-<img loading="lazy" height="345em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imvictorf&layout=compact&langs_count=7&theme=dracula"/> 
-<img loading="lazy" height="338em" width="340em" src="https://github-readme-stats.vercel.app/api?username=Imvictorf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Imvictorf&show_icons=true&theme=tokyonight&token=SEU_TOKEN" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imvictorf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
