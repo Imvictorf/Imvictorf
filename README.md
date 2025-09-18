@@ -1,5 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Victor Fidelis. Sejam bem vindos ao meu mundo!🪐</h1>
-<h2 align="center">Desenvolvedor Front-end em formação.👨‍💻</h2>
+<h1 align="center">👋 Olá, sejam bem vindos ao meu mundo!🪐</h1>
           
 # 🧑🏻‍💻 Victor Fidelis
 
