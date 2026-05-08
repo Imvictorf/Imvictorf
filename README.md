@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Frontend e estudante de ADS`**
 
- Sou Victor Fidelis, tenho 24 anos e sou apaixonado por tecnologia e pela cultura geek. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+ Sou Victor Fidelis, tenho 25 anos e sou apaixonado por tecnologia e pela cultura geek. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
 ### 🤖 Linguagens e Tecnologias
 
